@@ -1,0 +1,6 @@
+{
+  "name": "Rosso Corsa GT: Apex RTX",
+  "description": "Simulador de carreras 3D de hiperlujo con física Pacejka, gráficos PBR multicapa estilo RTX y arquitectura modular Unity 6 URP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
